@@ -1,4 +1,4 @@
-# Hashi_Puzzle_Projeto-PO
+# Hashi_Puzzle_Projeto-LP
 
 O objetivo deste projecto é escrever a primeira parte de um programa em PROLOG para resolver puzzles hashi.
 
